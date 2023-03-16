@@ -357,9 +357,6 @@ footer {
     text-align: left;
   }
 }
-.top-wrapper {
-  padding: 50px 0px;
-}
 .top-wrapper h1 {
   font-size: 45px;
   letter-spacing: 0px;
@@ -377,6 +374,9 @@ footer {
 
 /* Untuk smartphone*/
 @media all and (max-width: 670px) {
+   form {
+    margin-top: 500px;
+  }
   .header-right{
     display:none;
   }
@@ -388,9 +388,7 @@ footer {
     border: 0px;
     padding: 0px;
   }
-  .top-wrapper {
-    margin-top: 50px;
-  }
+
   .header-top {
     display: none;
   }
