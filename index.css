@@ -294,6 +294,7 @@ button {
 footer {
   background-color: rgb(27, 24, 24);
   height: 200px;
+  width:100%
 }
 
 .socmed {
@@ -443,9 +444,6 @@ footer {
     width: auto;
     min-height: 100px;
     padding: 0;
-  }
-  .footer{
-    width:100%
   }
 }
 
