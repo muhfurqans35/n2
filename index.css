@@ -371,6 +371,7 @@ footer {
 }
 .kotak-kiri2 {
   margin-left: 0px;
+  
 }
 .kotak-kanan2 {
   margin-left: 130px;
@@ -386,6 +387,7 @@ footer {
     width: 100%;
     margin: 0px;
     border: 0px;
+    padding: 0px;
   }
   .top-wrapper {
     margin-top: 50px;
