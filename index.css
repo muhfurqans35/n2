@@ -8,7 +8,6 @@ body {
 
 header {
   width: 100%;
-  position: fixed;
   background-color: #fff;
   top: 0;
   z-index: 0;
@@ -379,9 +378,10 @@ footer {
 
 /* Untuk smartphone*/
 @media all and (max-width: 670px) {
-  .form {
-    margin-top: 500px;
+  .header-right{
+    display:none
   }
+
   .kotak-kiri2,
   .kotak-kanan2 {
     width: 100%;
